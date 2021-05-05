@@ -1,0 +1,38 @@
+input{
+    height: 4rem!important;
+    font-size: 1.4rem!important;
+}
+textarea{
+    font-size: 1.4rem!important;
+}
+.send{
+    font-size: 1.8rem!important;
+    font-weight: bold;
+}
+.footer{
+    margin-top: 1rem!important;
+}
+.btn-send{
+    color: #03b2af!important;
+    border-color: #03b2af!important;
+}
+.btn-send:hover{
+    transition: 1s!important;
+    color: white!important;
+    border-color: #03b2af!important;
+    background-color: #03b2af!important;
+}
+.contactH1{
+    margin-top: 5rem!important;
+}
+
+@media screen and (max-width:991px){
+    .contactH1{
+        margin-top: 9rem!important;
+    }
+}
+@media screen and (max-width:576px){
+    .contactH1{
+        margin-top: 12rem!important;
+    }
+}
